@@ -19,3 +19,23 @@ I started my first steps in programming back in the 9th grade, when I first got 
 * C/C++
 * Linux & Bash  
 
+## Code exmple: 
+```
+function multiply(a, b) {
+  return a * b;
+}  
+
+let result = multiply(4, 8);
+alert( result );
+```
+
+## Education:
+BSU, Faculty of Mechanics and Mathematics  
+_2021 - present_  
+
+
+## Languages: 
+* Belarusian (Native)
+* Russian (Native)
+* English (A2)
+* Polish (A2)
